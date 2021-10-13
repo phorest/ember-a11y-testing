@@ -1070,7 +1070,7 @@
     ember-cli-htmlbars "^5.7.1"
     ember-destroyable-polyfill "^2.0.3"
 
-"@ember/test-waiters@^2.4.3 || ^3.0.0", "@ember/test-waiters@^3.0.0":
+"@ember/test-waiters@^3.0.0":
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/@ember/test-waiters/-/test-waiters-3.0.0.tgz#b66a35cd5b78ec3c296a6f5f5fb3852780a5d3c8"
   integrity sha512-z6+gIlq/rXLKroWv2wxAoiiLtgSOGQFCw6nUufERausV+jLnA7CYbWwzEo5R7XaOejSDpgA5d6haXIBsD5j0oQ==
